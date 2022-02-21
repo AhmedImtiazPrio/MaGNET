@@ -17,7 +17,24 @@ Abstract: _Deep Generative Networks (DGNs) are extensively employed in Generativ
 | MaGNET-ProGAN | CelebAHQ | &nbsp; | &nbsp;
 | MaGNET-NVAE | MNIST | &nbsp; | &nbsp;
 
-### Requirements
+### Release Notes
+
+1. MaGNET is a plug and play provable method that allows uniform sampling from the learned manifold of any generative model with piecewise affine non-linearities (e.g. `LReLU,ReLU`). The main contribution of the paper is an expression for the analytical density on the manifold for picewise affine deep generative models.
+2. For SOTA models and generators with complex architectures we see that the direct implication of MaGNET is significant increase in the diversity of a pretrained GAN.
+3. We present in `Appendix F Table 1` that by using MaGNET sampling and naive sampling concurrently, one can increase the diversity of sample generation and improve the FID of `StyleGAN2 config-f FFHQ` at different truncations for example:
+
+| Truncation | % MaGNET | FIDFULL 
+| :---- | :---- | :----
+| 1 | 0% | 2.74
+| 1 | 4.1% | 2.66
+| .9 | 0% | 5.05
+| .9 | 20% | 4.29
+| .7 | 0% | 21.34
+| .7 | 100% | 19.41
+| .5 | 0% | 58.33
+| .5 | 100% | 54.47
+
+### Requirements and Usage
 
 Since MaGNET is a Plug and Play method, initially we are making separate google collabs for Tensorflow and Pytorch implementations of StyleGAN2 (TF), BigGAN (TF), ProGAN (TF) and NVAE (Pytorch). The google collab code uses precomputed volume scalars to perform MaGNET sampling. We will also be adding submodules into this repo as plug and play examples for Tensorflow(=>1.15) and Pytorch(>=1.5), with methods to compute the volume scalars.
 
