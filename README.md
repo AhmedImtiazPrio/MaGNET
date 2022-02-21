@@ -26,7 +26,7 @@ Abstract: _Deep Generative Networks (DGNs) are extensively employed in Generativ
 | Truncation | % MaGNET | FIDFULL 
 | :---- | :---- | :----
 | 1 | 0% | 2.74
-| 1 | 4.1% | 2.66
+| 1 | 4.1% | **2.66**
 | .9 | 0% | 5.05
 | .9 | 20% | 4.29
 | .7 | 0% | 21.34
