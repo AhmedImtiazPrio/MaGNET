@@ -12,7 +12,7 @@ Abstract: _Deep Generative Networks (DGNs) are extensively employed in Generativ
 | Methods | Dataset | Library | &nbsp;
 | :---- | :---- | :---- | :----
 | MaGNET-Stylegan2 | FFHQ | TF1.15 | [Link](https://colab.research.google.com/drive/1C6K77e7pGSGKQiiq7EDv_mJ5dUpBh-h5?usp=sharing)
-| MaGNET-Stylegan3 | FFHQ | Pytorch1.9 | &nbsp;
+| MaGNET-Stylegan3 | AFHQ | Pytorch1.10 | &nbsp;
 | MaGNET-BigGAN | ImageNET | &nbsp; | &nbsp;
 | MaGNET-ProGAN | CelebAHQ | &nbsp; | &nbsp;
 | MaGNET-NVAE | MNIST | &nbsp; | &nbsp;
@@ -37,6 +37,7 @@ pytorch>=1.5
         * [StyleGAN2 config-e FFHQ StyleSpace](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
         * [StyleGAN2 config-e FFHQ PixelSpace](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
         * [StyleGAN2 config-f FFHQ PixelSpace](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
+        * [StyleGAN3 config-t AFHQv2 PixelSpace](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
         * [ProGAN CelebAHQ PixelSpace-256](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
         * [BigGAN-deep Imagenet 256](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
 
