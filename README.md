@@ -36,5 +36,5 @@ pytorch>=1.5
         * [BigGAN-deep Imagenet 256]()
 
 
-#### To request additional materials or for questions, please contact [ahmed.imtiaz.prio@gmail.com](mailto:imtiaz@rice.edu) 
+#### To request additional materials or for questions, please contact Ahmed Imtiaz Humayun at [imtiaz@rice.edu](mailto:imtiaz@rice.edu).
 
