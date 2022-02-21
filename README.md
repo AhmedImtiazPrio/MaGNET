@@ -52,5 +52,5 @@ url={https://openreview.net/forum?id=r5qumLiYwf9}
 }
 ```
 
-#### To request additional materials or for questions, please contact Ahmed Imtiaz Humayun at [imtiaz@rice.edu](mailto:imtiaz@rice.edu).
+#### To request additional materials or for questions, please contact Ahmed Imtiaz Humayun at [imtiaz@rice.edu](mailto:imtiaz@rice.edu). We eagerly welcome contributions, please open a pull request to add codes/collabs for models other than the ones currently in the repository.
 
