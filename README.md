@@ -14,7 +14,7 @@ Abstract: _Deep Generative Networks (DGNs) are extensively employed in Generativ
 
 ### Requirements
 
-Since MaGNET is a plug and play method, initially we are making separate google collabs for Tensorflow and Pytorch implementations of StyleGAN2 (TF), BigGAN (TF), ProGAN (TF) and NVAE (Pytorch). The google collab code uses precomputed volume scalars to perform MaGNET sampling. We will also be adding submodules into this repo as plug and play examples for Tensorflow(=>1.15) and Pytorch(>=1.5), with methods to compute the volume scalars and perform metric calculation.
+Since MaGNET is a plug and play method, initially we are making separate google collabs for Tensorflow and Pytorch implementations of StyleGAN2 (TF), BigGAN (TF), ProGAN (TF) and NVAE (Pytorch). The google collab code uses precomputed volume scalars to perform MaGNET sampling. We will also be adding submodules into this repo as plug and play examples for Tensorflow(=>1.15) and Pytorch(>=1.5), with methods to compute the volume scalars.
 
 ```
 tensorflow-gpu=>1.15
