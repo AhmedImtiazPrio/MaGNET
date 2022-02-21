@@ -7,4 +7,4 @@ Abstract: _Deep Generative Networks (DGNs) are extensively employed in Generativ
 
 ## Requirements
 
-MaGNET is a plug and play method to uniformly sample from the manifold of any pretrained generative model. Initially we are making separate google collabs for Tensorflow and Pytorch implementations of StyleGAN2 (TF), BigGAN (TF), ProGAN (TF) and NVAE (Pytorch). The google collab code uses precomputed volume scalars which to perform MaGNET sampling. We will also be adding submodules into this repo as plug and play examples for Tensorflow(=>1.15) and Pytorch(>=1.5) that shows MaGNET implementations from scratch. 
+MaGNET is a plug and play method to uniformly sample from the manifold of any pretrained generative model. Initially we are making separate google collabs for Tensorflow and Pytorch implementations of StyleGAN2 (TF), BigGAN (TF), ProGAN (TF) and NVAE (Pytorch). The google collab code uses precomputed volume scalars to perform MaGNET sampling. We will also be adding submodules into this repo as plug and play examples for Tensorflow(=>1.15) and Pytorch(>=1.5), that show MaGNET implementations from scratch. 
