@@ -1,0 +1,5 @@
+https://drive.google.com/file/d/1OkzdnuuYOa4R5dJHGUXbYV1eVjczm_fA #nvae_mnist
+https://drive.google.com/file/d/1X2OgTDOsku4JuCM-GjN08hSSdqdzqWCm #progan_celebahq
+https://drive.google.com/file/d/1rhz2ymIqRHe4A_n3H4jVk1ZEB6EG7zP2 #stylegan2_confige_ffhq_pixelspace
+https://drive.google.com/file/d/1fg6ealYoWhe0_MZJYbbG6U_hxJJh8Ahi #stylegan2_confige_ffhq_stylespace
+https://drive.google.com/file/d/1SSn-Vs59U0XoUcK8hCoK7bwFMFGtwI7q #stylegan2_configf_ffhq_pixelspace
