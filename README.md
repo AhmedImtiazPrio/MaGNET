@@ -7,10 +7,10 @@ Abstract: _Deep Generative Networks (DGNs) are extensively employed in Generativ
 
 | Google Collabs | &nbsp;
 | :---- | :----
-| MaGNET-Stylegan2 | [Link]()
-| MaGNET-BigGAN | [Link]()
-| MaGNET-ProGAN | [Link]()
-| MaGNET-NVAE | [Link]()
+| MaGNET-Stylegan2 | [Link](#)
+| MaGNET-BigGAN | [Link](#)
+| MaGNET-ProGAN | [Link](#)
+| MaGNET-NVAE | [Link](#)
 
 ### Requirements
 
