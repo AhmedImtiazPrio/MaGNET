@@ -35,6 +35,17 @@ pytorch>=1.5
         * [ProGAN CelebAHQ PixelSpace-256](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
         * [BigGAN-deep Imagenet 256](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
 
+### Citation
+```
+@inproceedings{
+humayun2022magnet,
+title={Ma{GNET}: Uniform Sampling from Deep Generative Network Manifolds Without Retraining},
+author={Ahmed Imtiaz Humayun and Randall Balestriero and Richard Baraniuk},
+booktitle={International Conference on Learning Representations},
+year={2022},
+url={https://openreview.net/forum?id=r5qumLiYwf9}
+}
+```
 
 #### To request additional materials or for questions, please contact Ahmed Imtiaz Humayun at [imtiaz@rice.edu](mailto:imtiaz@rice.edu).
 
