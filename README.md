@@ -25,15 +25,15 @@ pytorch>=1.5
 
 ### Additional Materials
 
-* [Official Google Drive]()
-    * [Samples]()
-        * [StyleGAN2-FFHQ Uncurated 5K with Face Attribute JSONs]()
-    * [SVDs]()
-        * [StyleGAN2 config-e FFHQ StyleSpace]()
-        * [StyleGAN2 config-e FFHQ PixelSpace]()
-        * [StyleGAN2 config-f FFHQ PixelSpace]()
-        * [ProGAN CelebAHQ PixelSpace-256]()
-        * [BigGAN-deep Imagenet 256]()
+* [Official Google Drive](https://drive.google.com/drive/folders/1f9HidadOEakLawfSxCGowATWxuvTjPqJ?usp=sharing)
+    * [Samples](https://drive.google.com/drive/folders/1eikrJF9m3QSca5c9CTBuJ8xNk_dCTLYh?usp=sharing)
+        * [StyleGAN2-FFHQ Uncurated 5K with Face Attribute JSONs](https://drive.google.com/drive/folders/1eikrJF9m3QSca5c9CTBuJ8xNk_dCTLYh?usp=sharing)
+    * [MaGNET Weights](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
+        * [StyleGAN2 config-e FFHQ StyleSpace](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
+        * [StyleGAN2 config-e FFHQ PixelSpace](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
+        * [StyleGAN2 config-f FFHQ PixelSpace](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
+        * [ProGAN CelebAHQ PixelSpace-256](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
+        * [BigGAN-deep Imagenet 256](https://drive.google.com/drive/folders/1HMkMYZDKN4fN6Ay1XS8A401kQH4VsqLE?usp=sharing)
 
 
 #### To request additional materials or for questions, please contact Ahmed Imtiaz Humayun at [imtiaz@rice.edu](mailto:imtiaz@rice.edu).
