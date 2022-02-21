@@ -12,7 +12,7 @@ Abstract: _Deep Generative Networks (DGNs) are extensively employed in Generativ
 | Methods | Dataset | Library | &nbsp;
 | :---- | :---- | :---- | :----
 | MaGNET-Stylegan2 | FFHQ | TF1.15 | [Link](https://colab.research.google.com/drive/1C6K77e7pGSGKQiiq7EDv_mJ5dUpBh-h5?usp=sharing)
-| MaGNET-Stylegan3 | AFHQ | Pytorch1.10 | &nbsp;
+| MaGNET-Stylegan3 | AFHQ | Pytorch1.10 | [Link](https://colab.research.google.com/drive/1F917F3YFdFycxzK0nV_FDzAgmdUMiaJ2?usp=sharing)
 | MaGNET-BigGAN | ImageNET | &nbsp; | &nbsp;
 | MaGNET-ProGAN | CelebAHQ | &nbsp; | &nbsp;
 | MaGNET-NVAE | MNIST | &nbsp; | &nbsp;
