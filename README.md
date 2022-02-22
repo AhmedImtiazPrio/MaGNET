@@ -23,7 +23,7 @@ Abstract: _Deep Generative Networks (DGNs) are extensively employed in Generativ
 2. For SOTA models and generators with complex architectures we see that the direct implication of MaGNET is significant increase in the diversity of a pretrained GAN.
 3. We present in `Appendix F Table 1` that by using MaGNET sampling and naive sampling concurrently, one can increase the diversity of sample generation and improve the `1024x1024 FIDFULL` of `StyleGAN2 config-f FFHQ` at different truncations for example:
 
-| Truncation | % MaGNET | FIDFULL 
+| Truncation ψ | % MaGNET | FIDFULL 
 | :---- | :---- | :----
 | 1 | 0% | 2.74
 | 1 | 4.1% | _2.66_
