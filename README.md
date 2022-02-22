@@ -1,7 +1,7 @@
 ## MaGNET: Uniform Sampling from Deep Generative Network Manifolds Without Retraining
 ### Official repository for ICLR 2022 paper
 
-![alt text](./assets/stylegan2_ffhq_montage.svg)
+![alt text](./assets/magnet_montage.jpg)
 
 Paper Link: https://arxiv.org/abs/2110.08009
 
