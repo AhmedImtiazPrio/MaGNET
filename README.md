@@ -22,7 +22,7 @@ Abstract: _Deep Generative Networks (DGNs) are extensively employed in Generativ
 
 1. MaGNET is a plug and play provable method that allows uniform sampling from the learned manifold of any generative model with piecewise affine non-linearities (e.g. `LReLU,ReLU`). The main contribution of the paper is an expression for the analytical density on the manifold for picewise affine deep generative models.
 2. For SOTA models and generators with complex architectures we see that the direct implication of MaGNET is significant increase in the diversity of a pretrained GAN.
-3. We present in `Appendix F Table 1` that by using MaGNET sampling and naive sampling concurrently, one can increase the diversity of sample generation and improve the FID of `StyleGAN2 config-f FFHQ` at different truncations for example:
+3. We present in `Appendix F Table 1` that by using MaGNET sampling and naive sampling concurrently, one can increase the diversity of sample generation and improve the `1024x1024 FIDFULL` of `StyleGAN2 config-f FFHQ` at different truncations for example:
 
 | Truncation | % MaGNET | FIDFULL 
 | :---- | :---- | :----
