@@ -1,5 +1,6 @@
 ## MaGNET: Uniform Sampling from Deep Generative Network Manifolds Without Retraining, _ICLR 2022_
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/magnet-uniform-sampling-from-deep-generative-1/image-generation-on-ffhq)](https://paperswithcode.com/sota/image-generation-on-ffhq?p=magnet-uniform-sampling-from-deep-generative-1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r6QX8jYe1tsQmZFO4myw3O29nqcKfdx5?usp=sharing)
 
 ![uncurated images StyleGAN2 and BigGAN](./assets/magnet_montage.jpg)
 Fig: Uncurated images generated via Naive and MaGNET sampling on StyleGAN2-FFHQ and BigGAN-ImageNet
