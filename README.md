@@ -64,7 +64,7 @@ pytorch>=1.5
 ```
 @inproceedings{
 humayun2022magnet,
-title={Ma{GNET}: Uniform Sampling from Deep Generative Network Manifolds Without Retraining},
+title={MaGNET: Uniform Sampling from Deep Generative Network Manifolds Without Retraining},
 author={Ahmed Imtiaz Humayun and Randall Balestriero and Richard Baraniuk},
 booktitle={International Conference on Learning Representations},
 year={2022},
